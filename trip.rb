@@ -15,3 +15,4 @@ stay = gets.chomp.capitalize  #don't forget to Capitilize the input
 
 puts ""
 puts "where do you want to visit"
+Location
